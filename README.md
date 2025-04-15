@@ -14,6 +14,8 @@ These projects combine the Visual Code setup for code editing with the magnifice
   - Download and install the [Visual Studio Code IDE](https://code.visualstudio.com)
   - Follow the instructions in the [link to install the OTX Maestro Tools & Extension](https://github.com/onethinx/OTX-Maestro/blob/main/README.md#installation)
   - Clone `https://github.com/onethinx/Onethinx_Project_Examples.git` or [download](https://github.com/onethinx/Onethinx_Project_Examples/archive/refs/heads/master.zip) and unpack the Example Projects to your local machine.
+    - **MAKE SURE THE PROJECT IS AT `C:/Onethinx_Project_examples` due to a bug the project path has to be short otherwise it might not work**
+
 
 ## 2. Configure the Chip Setup (IOs, peripherals etc.) using PSoC Creator
   This step is only needed when you need to change the chip configuration.
